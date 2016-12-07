@@ -1,4 +1,4 @@
-class ProtobufC < Formula
+class ProtobufC100 < Formula
   desc "Protocol buffers library"
   homepage "https://github.com/protobuf-c/protobuf-c"
   url "https://github.com/protobuf-c/protobuf-c/releases/download/v1.0.0/protobuf-c-1.0.0.tar.gz"
